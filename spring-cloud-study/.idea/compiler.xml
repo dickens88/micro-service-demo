@@ -16,6 +16,7 @@
         <module name="microservice-consumer-movie-feign-with-hystrix-stream" />
         <module name="microservice-consumer-movie-ribbon" />
         <module name="microservice-consumer-movie-ribbon-with-hystrix" />
+        <module name="microservice-discovery-eureka" />
         <module name="microservice-hystrix-dashboard" />
         <module name="microservice-hystrix-turbine" />
         <module name="microservice-provider-user" />
@@ -32,6 +33,7 @@
       <module name="microservice-consumer-movie-feign-with-hystrix-stream" target="1.8" />
       <module name="microservice-consumer-movie-ribbon" target="1.8" />
       <module name="microservice-consumer-movie-ribbon-with-hystrix" target="1.8" />
+      <module name="microservice-discovery-eureka" target="1.8" />
       <module name="microservice-hystrix-dashboard" target="1.8" />
       <module name="microservice-hystrix-turbine" target="1.8" />
       <module name="microservice-provider-user" target="1.8" />
