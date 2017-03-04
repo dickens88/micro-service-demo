@@ -1,3 +1,5 @@
+# 在原有项目上添加了docker-maven插件，可以用maven将代码编译打包成docker镜像，并通过docker-compose 自动部署
+
 # 项目简介
 本项目是《使用Spring Cloud与Docker实战微服务》：
 
